@@ -1,8 +1,0 @@
-import socket
-import sys
-
-#print('Enter Your DNS or Target: ')
-hostname = input('Enter Your DNS or Target: ')
-ip = socket.gethostbyname(hostname)
-print('=======================================================')
-print('[+]Host Name is: ', hostname, '\n' '[+]Target IP is: ', ip)
