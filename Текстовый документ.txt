@@ -1,0 +1,29 @@
+Webisida
+http://webisida.com/Account
+http://webisida.com/Account/AccountBrowser
+http://webisida.com/Besuchertausch/Online
+
+Информация об аккаунте
+ID аккаунта	444248
+Видимое имя (ник, псевдоним)	ig0r
+Логин для входа в аккаунт	dxa
+Код для программы серфинга	a9a8fd3792
+
+
+
+0001 			86.62.79.99
+0002 moscow 2 central	5.252.179.46
+0003 moscow central	5.252.179.47
+0004 saint peterburg 2	94.242.58.225
+
+0009 saint peterburg	185.22.172.215
+0010 			176.59.172.134
+
+
+
+65.49.68.90
+
+
+
+https://www.alexamaster.net/ads/autosurf/179577
+https://www.similarweb.com/corp/ru/extension/
